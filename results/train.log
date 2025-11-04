@@ -1,0 +1,131 @@
+2025-11-04 10:38:35,570 - INFO - Logger initialized. Writing to results/train.log
+2025-11-04 10:38:35,598 - INFO - Using device: cuda
+2025-11-04 10:38:56,383 - INFO - Epoch 001: train=2.5584, val=2.3731, ppl=10.73 [BEST]
+2025-11-04 10:39:16,636 - INFO - Epoch 002: train=2.2996, val=2.2523, ppl=9.51 [BEST]
+2025-11-04 10:39:37,423 - INFO - Epoch 003: train=2.2044, val=2.1837, ppl=8.88 [BEST]
+2025-11-04 10:39:58,009 - INFO - Epoch 004: train=2.1389, val=2.1043, ppl=8.20 [BEST]
+2025-11-04 10:40:18,424 - INFO - Epoch 005: train=2.0759, val=2.0520, ppl=7.78 [BEST]
+2025-11-04 10:40:38,968 - INFO - Epoch 006: train=2.0118, val=1.9673, ppl=7.15 [BEST]
+2025-11-04 10:40:59,363 - INFO - Epoch 007: train=1.9462, val=1.8963, ppl=6.66 [BEST]
+2025-11-04 10:41:19,904 - INFO - Epoch 008: train=1.8725, val=1.8012, ppl=6.06 [BEST]
+2025-11-04 10:41:40,443 - INFO - Epoch 009: train=1.8039, val=1.7081, ppl=5.52 [BEST]
+2025-11-04 10:42:08,963 - INFO - Epoch 010: train=1.6928, val=1.5503, ppl=4.71 [BEST]
+2025-11-04 10:42:29,362 - INFO - Epoch 011: train=1.5964, val=1.4608, ppl=4.31 [BEST]
+2025-11-04 10:42:50,103 - INFO - Epoch 012: train=1.5165, val=1.3799, ppl=3.97 [BEST]
+2025-11-04 10:43:10,636 - INFO - Epoch 013: train=1.4471, val=1.3041, ppl=3.68 [BEST]
+2025-11-04 10:43:31,103 - INFO - Epoch 014: train=1.3968, val=1.2581, ppl=3.52 [BEST]
+2025-11-04 10:43:51,708 - INFO - Epoch 015: train=1.3446, val=1.1914, ppl=3.29 [BEST]
+2025-11-04 10:44:12,180 - INFO - Epoch 016: train=1.3102, val=1.1705, ppl=3.22 [BEST]
+2025-11-04 10:44:32,428 - INFO - Epoch 017: train=1.2666, val=1.1509, ppl=3.16 [BEST]
+2025-11-04 10:44:53,367 - INFO - Epoch 018: train=1.2263, val=1.0915, ppl=2.98 [BEST]
+2025-11-04 10:45:13,980 - INFO - Epoch 019: train=1.2005, val=1.0402, ppl=2.83 [BEST]
+2025-11-04 10:45:34,598 - INFO - Epoch 020: train=1.1610, val=1.0135, ppl=2.76 [BEST]
+2025-11-04 10:45:54,846 - INFO - Epoch 021: train=1.1337, val=1.0791, ppl=2.94 (no improve 1/10)
+2025-11-04 10:46:15,225 - INFO - Epoch 022: train=1.0918, val=0.9267, ppl=2.53 [BEST]
+2025-11-04 10:46:35,873 - INFO - Epoch 023: train=1.0678, val=0.8841, ppl=2.42 [BEST]
+2025-11-04 10:46:56,392 - INFO - Epoch 024: train=1.0231, val=0.8335, ppl=2.30 [BEST]
+2025-11-04 10:47:16,837 - INFO - Epoch 025: train=0.9925, val=0.8527, ppl=2.35 (no improve 1/10)
+2025-11-04 10:47:37,260 - INFO - Epoch 026: train=0.9684, val=0.8044, ppl=2.24 [BEST]
+2025-11-04 10:47:57,552 - INFO - Epoch 027: train=0.9643, val=0.7748, ppl=2.17 [BEST]
+2025-11-04 10:48:18,346 - INFO - Epoch 028: train=0.9095, val=0.7077, ppl=2.03 [BEST]
+2025-11-04 10:48:46,753 - INFO - Epoch 029: train=0.8822, val=0.7429, ppl=2.10 (no improve 1/10)
+2025-11-04 10:49:07,444 - INFO - Epoch 030: train=0.8626, val=0.6621, ppl=1.94 [BEST]
+2025-11-04 10:49:27,859 - INFO - Epoch 031: train=0.8432, val=0.7006, ppl=2.01 (no improve 1/10)
+2025-11-04 10:49:48,136 - INFO - Epoch 032: train=0.8169, val=0.5988, ppl=1.82 [BEST]
+2025-11-04 10:50:08,996 - INFO - Epoch 033: train=0.7833, val=0.5935, ppl=1.81 [BEST]
+2025-11-04 10:50:29,164 - INFO - Epoch 034: train=0.7565, val=0.5414, ppl=1.72 [BEST]
+2025-11-04 10:50:49,712 - INFO - Epoch 035: train=0.7256, val=0.5826, ppl=1.79 (no improve 1/10)
+2025-11-04 10:51:10,342 - INFO - Epoch 036: train=0.7336, val=0.5504, ppl=1.73 (no improve 2/10)
+2025-11-04 10:51:30,492 - INFO - Epoch 037: train=0.6938, val=0.5612, ppl=1.75 (no improve 3/10)
+2025-11-04 10:51:51,306 - INFO - Epoch 038: train=0.6589, val=0.5219, ppl=1.69 [BEST]
+2025-11-04 10:52:11,960 - INFO - Epoch 039: train=0.6547, val=0.4712, ppl=1.60 [BEST]
+2025-11-04 10:52:32,337 - INFO - Epoch 040: train=0.6314, val=0.4915, ppl=1.63 (no improve 1/10)
+2025-11-04 10:52:52,952 - INFO - Epoch 041: train=0.6049, val=0.4702, ppl=1.60 [BEST]
+2025-11-04 10:53:13,248 - INFO - Epoch 042: train=0.5764, val=0.4551, ppl=1.58 [BEST]
+2025-11-04 10:53:34,032 - INFO - Epoch 043: train=0.5567, val=0.4431, ppl=1.56 [BEST]
+2025-11-04 10:53:54,542 - INFO - Epoch 044: train=0.5328, val=0.3789, ppl=1.46 [BEST]
+2025-11-04 10:54:15,076 - INFO - Epoch 045: train=0.5092, val=0.3613, ppl=1.44 [BEST]
+2025-11-04 10:54:35,951 - INFO - Epoch 046: train=0.4962, val=0.3188, ppl=1.38 [BEST]
+2025-11-04 10:54:56,083 - INFO - Epoch 047: train=0.4730, val=0.3361, ppl=1.40 (no improve 1/10)
+2025-11-04 10:55:23,949 - INFO - Epoch 048: train=0.4499, val=0.4156, ppl=1.52 (no improve 2/10)
+2025-11-04 10:55:44,997 - INFO - Epoch 049: train=0.4401, val=0.3127, ppl=1.37 [BEST]
+2025-11-04 10:56:05,757 - INFO - Epoch 050: train=0.4228, val=0.2802, ppl=1.32 [BEST]
+2025-11-04 10:56:26,040 - INFO - Epoch 051: train=0.4048, val=0.3005, ppl=1.35 (no improve 1/10)
+2025-11-04 10:56:46,401 - INFO - Epoch 052: train=0.3832, val=0.3179, ppl=1.37 (no improve 2/10)
+2025-11-04 10:57:06,927 - INFO - Epoch 053: train=0.3715, val=0.2837, ppl=1.33 (no improve 3/10)
+2025-11-04 10:57:27,410 - INFO - Epoch 054: train=0.3558, val=0.3298, ppl=1.39 (no improve 4/10)
+2025-11-04 10:57:47,763 - INFO - Epoch 055: train=0.3427, val=0.2296, ppl=1.26 [BEST]
+2025-11-04 10:58:08,466 - INFO - Epoch 056: train=0.3283, val=0.2559, ppl=1.29 (no improve 1/10)
+2025-11-04 10:58:28,895 - INFO - Epoch 057: train=0.3156, val=0.2495, ppl=1.28 (no improve 2/10)
+2025-11-04 10:58:49,310 - INFO - Epoch 058: train=0.3049, val=0.2262, ppl=1.25 [BEST]
+2025-11-04 10:59:09,825 - INFO - Epoch 059: train=0.2963, val=0.2243, ppl=1.25 [BEST]
+2025-11-04 10:59:30,553 - INFO - Epoch 060: train=0.2938, val=0.2164, ppl=1.24 [BEST]
+2025-11-04 10:59:51,140 - INFO - Epoch 061: train=0.2800, val=0.2309, ppl=1.26 (no improve 1/10)
+2025-11-04 11:00:11,589 - INFO - Epoch 062: train=0.2689, val=0.2003, ppl=1.22 [BEST]
+2025-11-04 11:00:32,052 - INFO - Epoch 063: train=0.2603, val=0.2028, ppl=1.22 (no improve 1/10)
+2025-11-04 11:00:52,544 - INFO - Epoch 064: train=0.2512, val=0.1794, ppl=1.20 [BEST]
+2025-11-04 11:01:12,965 - INFO - Epoch 065: train=0.2417, val=0.1877, ppl=1.21 (no improve 1/10)
+2025-11-04 11:01:33,254 - INFO - Epoch 066: train=0.2400, val=0.1900, ppl=1.21 (no improve 2/10)
+2025-11-04 11:01:54,098 - INFO - Epoch 067: train=0.2259, val=0.1784, ppl=1.20 [BEST]
+2025-11-04 11:02:22,200 - INFO - Epoch 068: train=0.2249, val=0.1993, ppl=1.22 (no improve 1/10)
+2025-11-04 11:02:42,759 - INFO - Epoch 069: train=0.2148, val=0.1938, ppl=1.21 (no improve 2/10)
+2025-11-04 11:03:03,387 - INFO - Epoch 070: train=0.2107, val=0.1775, ppl=1.19 [BEST]
+2025-11-04 11:03:24,096 - INFO - Epoch 071: train=0.2035, val=0.1744, ppl=1.19 [BEST]
+2025-11-04 11:03:44,744 - INFO - Epoch 072: train=0.1985, val=0.1649, ppl=1.18 [BEST]
+2025-11-04 11:04:05,335 - INFO - Epoch 073: train=0.1914, val=0.1509, ppl=1.16 [BEST]
+2025-11-04 11:04:25,836 - INFO - Epoch 074: train=0.1863, val=0.1498, ppl=1.16 [BEST]
+2025-11-04 11:04:46,240 - INFO - Epoch 075: train=0.1828, val=0.1552, ppl=1.17 (no improve 1/10)
+2025-11-04 11:05:06,841 - INFO - Epoch 076: train=0.1770, val=0.1502, ppl=1.16 (no improve 2/10)
+2025-11-04 11:05:27,239 - INFO - Epoch 077: train=0.1730, val=0.1370, ppl=1.15 [BEST]
+2025-11-04 11:05:47,686 - INFO - Epoch 078: train=0.1673, val=0.1454, ppl=1.16 (no improve 1/10)
+2025-11-04 11:06:08,230 - INFO - Epoch 079: train=0.1664, val=0.1413, ppl=1.15 (no improve 2/10)
+2025-11-04 11:06:28,599 - INFO - Epoch 080: train=0.1656, val=0.1253, ppl=1.13 [BEST]
+2025-11-04 11:06:49,135 - INFO - Epoch 081: train=0.1562, val=0.1333, ppl=1.14 (no improve 1/10)
+2025-11-04 11:07:09,694 - INFO - Epoch 082: train=0.1543, val=0.1401, ppl=1.15 (no improve 2/10)
+2025-11-04 11:07:30,124 - INFO - Epoch 083: train=0.1503, val=0.1258, ppl=1.13 (no improve 3/10)
+2025-11-04 11:07:50,303 - INFO - Epoch 084: train=0.1477, val=0.1359, ppl=1.15 (no improve 4/10)
+2025-11-04 11:08:10,990 - INFO - Epoch 085: train=0.1436, val=0.1307, ppl=1.14 (no improve 5/10)
+2025-11-04 11:08:31,643 - INFO - Epoch 086: train=0.1426, val=0.1252, ppl=1.13 [BEST]
+2025-11-04 11:09:00,503 - INFO - Epoch 087: train=0.1376, val=0.1238, ppl=1.13 [BEST]
+2025-11-04 11:09:21,029 - INFO - Epoch 088: train=0.1376, val=0.1506, ppl=1.16 (no improve 1/10)
+2025-11-04 11:09:41,428 - INFO - Epoch 089: train=0.1358, val=0.1189, ppl=1.13 [BEST]
+2025-11-04 11:10:02,063 - INFO - Epoch 090: train=0.1303, val=0.1129, ppl=1.12 [BEST]
+2025-11-04 11:10:22,697 - INFO - Epoch 091: train=0.1272, val=0.1175, ppl=1.12 (no improve 1/10)
+2025-11-04 11:10:42,998 - INFO - Epoch 092: train=0.1259, val=0.1141, ppl=1.12 (no improve 2/10)
+2025-11-04 11:11:03,784 - INFO - Epoch 093: train=0.1229, val=0.1054, ppl=1.11 [BEST]
+2025-11-04 11:11:24,101 - INFO - Epoch 094: train=0.1199, val=0.1132, ppl=1.12 (no improve 1/10)
+2025-11-04 11:11:44,687 - INFO - Epoch 095: train=0.1198, val=0.1140, ppl=1.12 (no improve 2/10)
+2025-11-04 11:12:05,151 - INFO - Epoch 096: train=0.1150, val=0.1076, ppl=1.11 (no improve 3/10)
+2025-11-04 11:12:25,321 - INFO - Epoch 097: train=0.1162, val=0.1162, ppl=1.12 (no improve 4/10)
+2025-11-04 11:12:45,880 - INFO - Epoch 098: train=0.1138, val=0.1133, ppl=1.12 (no improve 5/10)
+2025-11-04 11:13:06,288 - INFO - Epoch 099: train=0.1125, val=0.0998, ppl=1.10 [BEST]
+2025-11-04 11:13:26,833 - INFO - Epoch 100: train=0.1091, val=0.1170, ppl=1.12 (no improve 1/10)
+2025-11-04 11:13:47,176 - INFO - Epoch 101: train=0.1081, val=0.1065, ppl=1.11 (no improve 2/10)
+2025-11-04 11:14:07,792 - INFO - Epoch 102: train=0.1062, val=0.1118, ppl=1.12 (no improve 3/10)
+2025-11-04 11:14:28,123 - INFO - Epoch 103: train=0.1031, val=0.1088, ppl=1.11 (no improve 4/10)
+2025-11-04 11:14:48,472 - INFO - Epoch 104: train=0.1040, val=0.1115, ppl=1.12 (no improve 5/10)
+2025-11-04 11:15:09,272 - INFO - Epoch 105: train=0.1002, val=0.0991, ppl=1.10 [BEST]
+2025-11-04 11:15:37,874 - INFO - Epoch 106: train=0.0990, val=0.1006, ppl=1.11 (no improve 1/10)
+2025-11-04 11:15:58,318 - INFO - Epoch 107: train=0.0992, val=0.0962, ppl=1.10 [BEST]
+2025-11-04 11:16:18,554 - INFO - Epoch 108: train=0.0958, val=0.1019, ppl=1.11 (no improve 1/10)
+2025-11-04 11:16:39,330 - INFO - Epoch 109: train=0.0963, val=0.1090, ppl=1.12 (no improve 2/10)
+2025-11-04 11:16:59,744 - INFO - Epoch 110: train=0.0925, val=0.0972, ppl=1.10 (no improve 3/10)
+2025-11-04 11:17:20,082 - INFO - Epoch 111: train=0.0951, val=0.1018, ppl=1.11 (no improve 4/10)
+2025-11-04 11:17:40,681 - INFO - Epoch 112: train=0.0909, val=0.0950, ppl=1.10 [BEST]
+2025-11-04 11:18:01,062 - INFO - Epoch 113: train=0.0890, val=0.0985, ppl=1.10 (no improve 1/10)
+2025-11-04 11:18:21,497 - INFO - Epoch 114: train=0.0893, val=0.1018, ppl=1.11 (no improve 2/10)
+2025-11-04 11:18:41,717 - INFO - Epoch 115: train=0.0875, val=0.1042, ppl=1.11 (no improve 3/10)
+2025-11-04 11:19:02,434 - INFO - Epoch 116: train=0.0880, val=0.1022, ppl=1.11 (no improve 4/10)
+2025-11-04 11:19:22,603 - INFO - Epoch 117: train=0.0868, val=0.0976, ppl=1.10 (no improve 5/10)
+2025-11-04 11:19:43,162 - INFO - Epoch 118: train=0.0847, val=0.0899, ppl=1.09 [BEST]
+2025-11-04 11:20:03,601 - INFO - Epoch 119: train=0.0850, val=0.1033, ppl=1.11 (no improve 1/10)
+2025-11-04 11:20:23,820 - INFO - Epoch 120: train=0.0825, val=0.1028, ppl=1.11 (no improve 2/10)
+2025-11-04 11:20:44,180 - INFO - Epoch 121: train=0.0814, val=0.0979, ppl=1.10 (no improve 3/10)
+2025-11-04 11:21:04,482 - INFO - Epoch 122: train=0.0827, val=0.0986, ppl=1.10 (no improve 4/10)
+2025-11-04 11:21:24,787 - INFO - Epoch 123: train=0.0799, val=0.0965, ppl=1.10 (no improve 5/10)
+2025-11-04 11:21:45,200 - INFO - Epoch 124: train=0.0796, val=0.0927, ppl=1.10 (no improve 6/10)
+2025-11-04 11:22:06,026 - INFO - Epoch 125: train=0.0791, val=0.1049, ppl=1.11 (no improve 7/10)
+2025-11-04 11:22:34,321 - INFO - Epoch 126: train=0.0778, val=0.1008, ppl=1.11 (no improve 8/10)
+2025-11-04 11:22:54,724 - INFO - Epoch 127: train=0.0772, val=0.1006, ppl=1.11 (no improve 9/10)
+2025-11-04 11:23:15,059 - INFO - Epoch 128: train=0.0777, val=0.0965, ppl=1.10 (no improve 10/10)
+2025-11-04 11:23:15,059 - INFO - [EARLY STOP] Validation did not improve for 10 epochs.
